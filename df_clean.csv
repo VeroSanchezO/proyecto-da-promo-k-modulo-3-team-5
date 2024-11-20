@@ -1315,7 +1315,7 @@ age,attrition,business_travel,daily_rate,distance_from_home,education,education_
 33,No,Unknown,556.2566609977324,8,4,marketing,1314,3,M,3,2, sales executive ,3,divorced,4492.84,11681.39,0,Unknown,12,3.0,4,Part Time,0,6.0,3,3.0,5,1,2,53914.11,N
 30,No,Unknown,214.91269841269843,3,3,Unknown,1315,3,F,3,1, research scientist ,3,Unknown,1735.83,4513.17,1,no,20,4.0,3,Part Time,1,1.0,2,Unknown,1,0,0,20830.0,N
 29,No,Unknown,556.2566609977324,44,2,medical,1316,2,F,3,2, sales executive ,3,Unknown,4492.84,11681.39,1,no,14,3.0,1,Part Time,1,Unknown,5,2.0,6,1,2,53914.11,N
-20,Yes,Unknown,104.1031746031746,10,1,medical,1317,4,M,3,1, research scientist ,3,single,84083.0,2186.17,1,Unknown,11,3.0,4,Part Time,0,Unknown,5,3.0,1,1,1,10090.0,Y
+20,Yes,Unknown,104.1031746031746,10,1,medical,1317,4,M,3,1, research scientist ,3,single,840.833,2186.17,1,Unknown,11,3.0,4,Part Time,0,Unknown,5,3.0,1,1,1,10090.0,Y
 35,No,non_travel,290.03550973654063,20,3,Unknown,1318,20,M,2,1, laboratory technician ,3,married,2342.59,6090.75,1,no,18,3.0,3,Unknown,2,1.0,3,3.0,1,0,0,28111.08,N
 37,No,Unknown,290.03550973654063,10,2,life sciences,1319,4,M,4,1, research scientist ,4,single,2342.59,6090.75,3,no,17,3.0,1,Part Time,0,Unknown,2,Unknown,1,0,0,28111.13,Y
 38,No,Unknown,811.0555555555557,1,3,Unknown,1320,3,F,3,3, manufacturing director ,3,single,6550.83,17032.17,4,yes,14,3.0,4,Part Time,0,10.0,4,Unknown,1,0,0,78610.0,Y
@@ -1358,7 +1358,7 @@ age,attrition,business_travel,daily_rate,distance_from_home,education,education_
 37,Yes,travel_rarely,492.8650793650794,11,2,medical,1357,1,F,1,2, healthcare representative ,2,Unknown,3980.83,10350.17,5,no,15,3.0,1,Part Time,0,15.0,2,1.0,1,0,0,47770.0,Y
 38,No,Unknown,556.2566609977324,3,4,life sciences,1358,2,M,3,2, sales executive ,4,Unknown,4492.84,11681.39,8,yes,12,3.0,3,Unknown,0,19.0,1,3.0,1,0,0,53914.08,N
 36,Yes,Unknown,556.2566609977324,15,3,Unknown,1359,1,M,3,2, laboratory technician ,3,divorced,4492.84,11681.39,7,Unknown,14,3.0,2,Part Time,1,9.0,3,2.0,1,0,0,53914.11,Y
-28,No,travel_rarely,108.53968253968254,10,1,medical,1360,4,M,3,1, sales representative ,2,married,87667.0,2279.33,1,no,22,4.0,2,Unknown,0,Unknown,5,3.0,1,0,0,10520.0,Y
+28,No,travel_rarely,108.53968253968254,10,1,medical,1360,4,M,3,1, sales representative ,2,married,876.667,2279.33,1,no,22,4.0,2,Unknown,0,Unknown,5,3.0,1,0,0,10520.0,Y
 43,No,Unknown,1032.4872861766066,25,3,Unknown,1361,3,M,2,3, sales executive ,4,Unknown,8339.32,21682.23,5,no,13,3.0,3,Part Time,1,18.0,5,3.0,1,0,0,100071.84,Y
 21,Yes,travel_rarely,290.03550973654063,10,3,Unknown,1362,3,F,2,1, laboratory technician ,1,single,2342.59,6090.75,1,no,13,3.0,1,Part Time,0,1.0,6,2.0,1,1,0,28111.13,Y
 51,Yes,travel_rarely,253.91269841269843,4,4,Unknown,1363,1,M,3,1, research scientist ,3,married,2050.83,5332.17,9,Unknown,12,3.0,3,Part Time,3,18.0,2,4.0,10,2,7,24610.0,N
@@ -1463,7 +1463,7 @@ age,attrition,business_travel,daily_rate,distance_from_home,education,education_
 27,Yes,Unknown,295.3888888888889,22,3,Unknown,1462,1,F,2,1, human resources ,2,married,2385.83,6203.17,1,no,12,3.0,1,Full Time,0,Unknown,2,3.0,1,0,0,28630.0,N
 38,No,travel_rarely,294.8730158730159,1,3,Unknown,1463,1,M,2,1, sales representative ,1,single,2381.67,6192.33,4,Unknown,14,3.0,1,Unknown,0,20.0,3,2.0,1,0,0,28580.04,Y
 32,No,Unknown,556.2566609977324,5,4,life sciences,1464,4,M,2,2, manufacturing director ,4,Unknown,4492.84,11681.39,8,no,24,4.0,2,Part Time,0,Unknown,1,3.0,1,0,0,53914.11,Y
-31,No,Unknown,116.484126984127,2,1,medical,1465,4,F,1,1, laboratory technician ,4,Unknown,94083.0,2446.17,1,Unknown,11,3.0,3,Part Time,3,Unknown,4,3.0,1,0,0,11290.0,Y
+31,No,Unknown,116.484126984127,2,1,medical,1465,4,F,1,1, laboratory technician ,4,Unknown,940.833,2446.17,1,Unknown,11,3.0,3,Part Time,3,Unknown,4,3.0,1,0,0,11290.0,Y
 25,No,travel_rarely,290.03550973654063,2,3,Unknown,1466,3,F,3,1, human resources ,2,Unknown,2342.59,6090.75,4,no,14,3.0,3,Part Time,0,6.0,3,3.0,2,1,2,28111.13,N
 40,No,Unknown,290.03550973654063,44,4,Unknown,1467,1,M,3,1, laboratory technician ,4,married,2342.59,6090.75,8,no,19,3.0,3,Part Time,2,8.0,3,2.0,1,0,0,28111.13,Y
 39,No,non_travel,2004.7857142857144,9,3,Unknown,1468,4,M,3,5, manager ,4,Unknown,16192.5,42100.5,2,Unknown,13,3.0,3,Full Time,0,Unknown,3,2.0,6,1,3,194310.0,N
