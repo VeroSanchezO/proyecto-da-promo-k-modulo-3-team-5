@@ -7,7 +7,7 @@ Esta empresa, fundada en 1980 en California, es una consultora tecnológica espe
 
 **Equipo Data Seekers**  
 
-![logo2.1.png](imagenes/logo2.1.png)
+![logo.png](imagenes/logo.png)
 
 En un entorno empresarial competitivo, la toma de decisiones fundamentadas es clave para el éxito a largo plazo. La satisfacción y retención de empleados son factores cruciales para cualquier organización, ya que impactan la productividad y rentabilidad. Con el fin de reducir la rotación de personal y aumentar la satisfacción laboral, la empresa **ABC Corporation** nos ha contratado para llevar a cabo un proyecto de análisis de datos y experimentación A/B.
 
